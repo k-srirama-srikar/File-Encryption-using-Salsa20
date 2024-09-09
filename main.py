@@ -9,7 +9,7 @@ json_path = 'password_and_nonce.json'
 
 
 def derive_key(password, length=32):
-    """Derive a key from the password using SHA-256 or PBKDF2."""
+    """Derive a key from the password using SHA-256."""
     return hashlib.sha256(password.encode()).digest()[:length]
 
 
