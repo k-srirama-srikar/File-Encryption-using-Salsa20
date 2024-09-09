@@ -1,6 +1,10 @@
 # File Encryption using a custom implementation of Salsa20
 
 
+## About the project
+ 
+
+
 ## About Salsa20
 Salsa20 is a stream cipher designed by Daniel J. Bernstein. It's known for its efficiency and security and is used to encrypt data by generating a pseudorandom keystream that is XORed with the plaintext. Here's a high-level overview:
 
