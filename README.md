@@ -20,7 +20,7 @@ You can now run the `main.py`, which will open a very minimalistic PyQt window l
 ![image](https://github.com/user-attachments/assets/af446f4c-28d5-4701-aa7a-9b62cbb31cd6) \
 You can enter a password and select a text file to encrypt, which will create a `.txt.enc` file which will contain the encrypted text. \
 You can also decrypt it similarly by reentering the password and selecting the `.txt.enc` file which will give a `.txt.dec` file which contains the plain text.\
-You can try out the `test.txt` here and check how it works. \
+You can try out the `test.txt` here and check how it works. 
 > [!NOTE]
 > A `password_and_nonce.json` file will be created in the process of entering the password while encrypting. 
  
