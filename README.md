@@ -6,7 +6,7 @@
 
 
 ## How to use?
-Before you try to run the program, make sure `PyQt` is installed \
+Before you try to run the program, make sure `PyQt` is installed 
 
 Linux:
 ```bash
@@ -25,7 +25,7 @@ You can try out the `test.txt` here and check how it works.
 > A `password_and_nonce.json` file will be created in the process of entering the password while encrypting. 
  
 
-## How does the code work?
+## How does the program work?
 
 
 ## About Salsa20
